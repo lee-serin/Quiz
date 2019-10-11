@@ -38,6 +38,6 @@ def series_up(n)
 end
 
 print series_up(1) # -> 1
-# print series_up(2) # -> 1,  1, 2
-# print series_up(3)
-# print series_up(4)
+print series_up(2) # -> 1,  1, 2
+print series_up(3)
+print series_up(4)
